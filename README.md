@@ -7,7 +7,7 @@ _The scripts here were used in some of the projects displayed in <a href="https:
 <h2> Projects: </h2>
 
 <h3> Chicago Food Deserts </h3>
-<em>Skills: ArcGIS, Python: BeautifulSoup, Pandas </em> 
+<em>Skills: ArcGIS, Python: BeautifulSoup, Pandas, GeoPandas </em> 
 <br>
 For this project, I pulled data on the number of grocery stores in various neighborhoods in Chicago. I then used this to generate a density map of Chicago using ArcGIS online and compared my map to a map that depicts the median household income by neighborhood in Chicago. The results, which can be seen on my <a href="https://mayamkay.github.io/projects/4_project/"> portfolio </a>, clearly demonstrate a correlation between the wealth of a neighborhood and the number of grocery stores. In less affluent neighborhoods, residents have to travel much further to find groceries, a phenomenon that is often referred to as "food desserts."
 
